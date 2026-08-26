@@ -1,8 +1,7 @@
 export function Dashboard () {
   return (
     <>
-      <div>Dashboard</div>
-      <div>Hello "/"!</div>
+      <div>Här var det fakturor</div>
     </>
   );
 };
